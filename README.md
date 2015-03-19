@@ -8,9 +8,9 @@ This slideshow presentation may be used as training course.
 
 # License
 
-See file [LICENSE](/olibre/olibre/blob/master/LICENSE)
+See file [LICENSE](LICENSE)
 
-1. Content text and pictures (within file [index.html](/olibre/olibre/blob/master/index.html)) are
+1. Content text and pictures (within file [index.html](index.html)) are
    **Copyleft/Copyright (c) 2015 olibre <olibre@Lmap.org>**
    over multiple licenses, choose the one(s) you prefer:
      - [Any version of CC-BY-SA](https://creativecommons.org/licenses/by-sa/
