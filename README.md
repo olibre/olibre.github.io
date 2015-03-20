@@ -9,6 +9,8 @@ The idea is to share experience feedback on these domains:
 - Software (C++, C++17, Boost, ...)
 - Management (scm, build, dependecies...)
 
+The C++11/C++14/C++17/C++20 part comes from the [Joel Falcou training](http://www.numscale.com/formation/) (see also [his SIMD slideshow](http://www.slideshare.net/joelfalcou))
+
 This slideshow presentation should be used as training course...
 
 # License
