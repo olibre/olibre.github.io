@@ -1,10 +1,15 @@
 # Performance on server side
 
+The project is at early stage, still in progress... Please contribute ;-)
+
+Nevertheless the slideshow **presentation is already published at http://olibre.github.io**
+
+The idea is to share experience feedback on these domains:
 - Hardware 
 - Software (C++, C++17, Boost, ...)
 - Management (scm, build, dependecies...)
 
-This slideshow presentation may be used as training course.
+This slideshow presentation should be used as training course...
 
 # License
 
