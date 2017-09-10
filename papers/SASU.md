@@ -3,3 +3,6 @@
   
 * Comptabilité soit-même, par un salarié ou externalisée par un **expert** comptable  
   http://www.gautier-girard.com/forum/topic/comptable-ou-expert-comptable-1
+
+* SASU intéressant quand on bénéficie de l'aide à la recherche d'emploi  
+  http://www.gautier-girard.com/forum/topic/la-sasu-quel-statut
