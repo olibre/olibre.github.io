@@ -10,3 +10,6 @@
   
 * La compta d'une SASU c'est compliqué => Passer par un expert comptable au début  
   http://www.gautier-girard.com/forum/topic/enfin-chef-dentreprise-maisbesoin-de-conseils
+  
+* Date de clôture d'excercice comptable => Un premier exercice comptable court pour se verser rapidement des dividendes
+  https://www.compta-facile.com/lexercice-comptable/
