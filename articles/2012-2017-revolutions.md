@@ -659,3 +659,24 @@ Pour l'espèce humaine, il y a des régions favorisées et défavorisées par le
 
 Jeux olympiques 2012, 2024
 ==========================
+
+Greffe fécale
+=============
+
+Base de données
+===============
+
+* Oracle a raté le tournant du cloud
+* OVH et Orange proposent du cloud en mode IaaS
+* Amazon (AWS), Google et Microsoft (Azure) proposent du Paas
+
+
+C++11 C++14 C++17
+=================
+
+Java 9
+======
+
+Python 3
+========
+
