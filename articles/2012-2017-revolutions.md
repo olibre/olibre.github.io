@@ -153,7 +153,6 @@ Il y a cinq ans, les média parlaient rarement des rançonwares...
 
 
 GAFAM, BATX et CHATON
-
 =====================
 
 
@@ -458,5 +457,57 @@ Mobiles haut de gammes avec deux appareils photos
 
 Dispose d'un appareil photo à double objectif principal
 Un appareil photo à double objectif capture deux images et les superpose. Cette technologie améliore la qualité de la photo, particulièrement quand il n'y as peu de lumière, et vous permet certains effets comme par exemple, affiner le sujet et d'adoucir le fond.
+
+
+Hôtel avec Télé ou WiFi
+=======================
+
+En  cinq ans on ne demande plus si il y a une télé dans la chambre d'un gîte  mais le wifi
+
+Du radar à la caméra de recul
+=============================
+
+En cinq ans, les voitures sont passés du radar de  recul à la caméra de recul. Et plusieurs pays annoncent la fin de la commercialisation des véhicules utilisant les énergies fossiles. Le nombre de voitures hybrides à explosé. Il y a même des voitures 100 % électriques qui se vendent bien. Et les résidences  commencent à équiper leur parking de borne électrique.
+
+Branche unique
+==============
+
+Le fait que les équipes, après s'être emmêlées/embrouillées les neurones avec des git-flow, reviennent à la branche unique, du moins à la simplification du workflow et du nombre de branches. Ainsi, que la réduction du nombre de repo Git, pour rassembler les projets qui ont des dépendances dans un seul et même repo.
+
+DevOps, c'est avant tout un état d'esprit
+=========================================
+
+DevOps c'est l'alignement de deux visions historiquement opposées : Le Dev veut livrer fréquemment des corrections, de nouvelles fonctionnalités (avec son lot de régressions), des refactoring et autres changements VERSUS l'Ops qui veut la stabilité de la prod et refuse des livraisons si ce n'est vraiment pas nécessaire (et refuse les changements inutiles). Et bien c'est pareil pour SecOps : Le Sec veut fermer toutes les routes, interdire le compte root, déconnecter automatiquement les sessions SSH au bout de 30 secondes d'inactivité, supprimer tous les packages qui permettent d'exécuter du code, interdire l'accès aux logs VERSUS l'Ops qui veut se simplifier la vie en se connectant sur n'importe quelle machine et faire son travail sans contraintes. Et l'alignement entre les DevOps et les SecOps... c'est DevSecOps. Et quand on aligne la vision des affaires (Biz) et celle des DevSecOps cela donne BizDevSecOps : tous les métiers de l'entreprise se comprennent et partagent les mêmes objectif => Se concentrer sur les tâches qui rapportent (Biz) vraiment à l'entreprise (finances, image, fierté...), avec l'innovation IT (Dev) en améliorant la sécurité (Sec) et l'exploitation (Ops).
+
+Logistique
+==========
+
+La logistique, nerf de la guerre du commerce en ligne, avec des entrepôts disséminés à proximité des populations et approvisionné à partir d'algorithme sophistiqués anticipant les achats. En Chine, les livraisons se font en quelques heures. Amazon a déjà testé les livraisons dans le coffre de la voiture (avec Audi) et avec des dirigeables/drones (https://www.amazon.com/Amazon-Prime-Air/b?node=8037720011)
+
+Banques mobiles
+===============
+
+Il y a 5 ans nous avions les banques traditionnelles (BNP, LCL...) et les banques en ligne (Boursorama, Fortuneo, HelloBank...). Nous avons maintenant les banques mobiles (N26, Revolut, Qonto, Orange Bank...). Ces entreprises adoptent un fonctionnement très Agile (sauf pour Orange). Par exemple, l'offre d'emploi d'un junior chez N26 offre un grand degré d'autonomie, un rôle crucial dans son équipe, le choix des tous derniers matériels, une hiérarchie plate et ouverte à la discussion, les dernières techno et probablement le meilleur café du voisinage: https://n26.com/jobs/201203/?gh_jid=201203
+Et comme une partie importante des lecteurs de LinuxFr.org sont des consultants et indépendants, vous pouvez bénéficier des services bancaires pro/business à un tarif proche de zéro euro !
+
+Data centers souverains
+=======================
+
+Data centers Amazone/Microsoft/..., sur territoire Européen/Français pour rassurer les clients sur l'application de la loi  Européenne/Française sur les donnée. Pour rappel, l'administration des USA ont un accès illimité et permanent aux données (BigData) des personnes n'ayant pas la nationalité USA et sans avoir à recourir aux services secret, et cela depuis la loi Patriot Act voté suite aux attentats du 11 septembre 2001.
+
+Publicitaires
+=============
+
+Criteo fait mieux que Google en croisant les données des sites marchants concernant l'internaute et son activité actuelle sur le net. Et avec le machine learning, Big brother te connait mieux que toi-même !
+
+Flash mourrant
+==============
+
+Mort annoncé de Flash, ce que je n'imaginais pas il y a 5 ans !
+
+Daesh
+=====
+
+les attentats et la présence/renforcement de personnel de sécurité à l'entrée des entreprises.
 
 
