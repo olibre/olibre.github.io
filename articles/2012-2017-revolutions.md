@@ -155,13 +155,18 @@ Il y a cinq ans, les média parlaient rarement des rançonwares...
 GAFAM, BATX et CHATON
 =====================
 
-
 * GAFAM = Google, Apple, Facebook, Amazon et Microsoft (depuis l'acquisition de Linkedin)
-
+* NATU = 
 * BATX = Baidu, Alibaba, Tencent et Xiaomi
-
 * [CHATONS](https://chatons.org/) = Préserver sa vie privée face aux géants du web
+* YUNOHOST
 
+* Framasoft Winter of Code
+* Contributopia
+
+Pour ne pas que *Vivre avec son temps* soit *exposer sa vie privée, devenir le produit et travailler bénévolement pour le web privé*.
+
+Quizz de Stackoverflow et GitHub ?
 
 
 Management
@@ -364,6 +369,9 @@ Géolocalisation
 La collecte des points d'accès Wi-Fi par les téléphones Android et iPhone à l'insu de permettent à Google et Apple d'obtenir une cartographie propriétaire améliorant la géo-localisation des smartphones. Mozilla a lancé [MLS](https://location.services.mozilla.com/) son projet similaire mais dans une approche libre.
 
 
+Galileo
+=======
+
 
 Des enchères aux petites annonces
 =================================
@@ -484,6 +492,9 @@ Logistique
 
 La logistique, nerf de la guerre du commerce en ligne, avec des entrepôts disséminés à proximité des populations et approvisionné à partir d'algorithme sophistiqués anticipant les achats. En Chine, les livraisons se font en quelques heures. Amazon a déjà testé les livraisons dans le coffre de la voiture (avec Audi) et avec des dirigeables/drones (https://www.amazon.com/Amazon-Prime-Air/b?node=8037720011)
 
+Concurrent Amazon  :  ali express
+
+
 Banques mobiles
 ===============
 
@@ -508,6 +519,143 @@ Mort annoncé de Flash, ce que je n'imaginais pas il y a 5 ans !
 Daesh
 =====
 
-les attentats et la présence/renforcement de personnel de sécurité à l'entrée des entreprises.
+Les attentats et la présence/renforcement de personnel de sécurité à l'entrée des entreprises.
+
+Qualité de l'air
+================
+
+L'Agence européenne de l'environnement (AEE) a publié son traditionnel rapport annuel sur la qualité de l'air. Et les résultats sont une nouvelle fois édifiants. En 2014, 520.400 personnes sont mortes prématurément, soit avant l'âge de 65 ans, à cause de la pollution de l'air au sein des 41 pays situés dans la zone Europe. Sur les seuls pays de l'Union européenne, le chiffre s'élève 487.600 décès.
 
 
+Fin du diesel
+=============
+
+L'essence est bien partie pour passer devant le diesel dans les immatriculations de voitures neuves en France cette année, signe de l'accélération de la baisse des ventes des modèles au gasoil tombés en disgrâce depuis l'affaire Volkswagen de trucage des émissions polluantes.
+
+Fin de l'essence
+================
+
+
+Cigarette électronique
+======================
+
+Monocycle électrique
+====================
+
+Biologie
+========
+
+La fabrique du vivant
+
+ICO
+===
+
+Après prêt bancaire, émissions d'obligations, IPO, crow-funding...
+Voici l'ICO
+
+
+Smartphone
+==========
+
+Les plus conservateurs sont passés pour la plupart au smartphone, Android ou iPhone.
+Microsoft, Mozilla et Canonical abandonnent leur OS mobile. 
+
+Pokémon
+=======
+
+Brexit
+======
+
+
+Messagerie instantanée
+======================
+
+Xmpp sms -> Twitter Skype -> Whatsapp
+
+Chiffrement de bout en bout
+===========================
+
+Snowden -> téléphones chiffrées, télégram
+
+Compteur nombre de pas
+======================
+
+20 € ip67 pulsation cardiaque, tension artérielle, glycémie
+
+Écho doppler USB
+================
+
+Yoga & Méditation
+=================
+
+Besoin de faire du Yoga et Méditation pleine conscience en Entreprise.
+
+
+Accessibilité
+=============
+
+Les sites web ne semblent pas plus accessibles qu'il y a 5 ans.
+
+Fin de la télévision 3D
+=======================
+
+D'ailleurs Louis Lumières avait tenté le premier le cinéma 3D en 193x et suite au peu de succès, il avait déclaré que tant que l'on aurait besoin de lunettes cela ne restera qu'une curiosité.
+
+Essort de la réalité virtuelle
+==============================
+
+Après le Cardboard, les casques complets.
+
+Après une promotion estivale, le pack Rift + Touch passe de façon permanence à 449 euros contre 900 euros (699 + 199 euros) au lancement. En 18 mois, c’est donc un prix divisé par deux. Oculus réagit là à l’annonce de Microsoft, avec une demi-douzaine de casques fabriqués par Samsung, Dell et Lenovo qui devraient arriver d’ici la fin de l’année entre 350 et 500 dollars. Reste à voir si le grand public répondra présent ou s’il rejettera la technologie en bloc, comme les télés 3D il y a trois ans.
+
+
+
+
+Sex Japon
+=========
+
+
+Microsoft
+=========
+
+Partenariat Ubuntu
+
+C'est décidément une idée fixe chez Microsoft qui, faute d'avoir su imposer son système pour smartphones, s'est incrusté (avec succès) chez la concurrence pour y mettre un brin de Windows 10. Le lanceur d'applications change de nom au passage.
+
+Cette semaine Microsoft a ainsi annoncé l'arrivée de son navigateur Edge sur iOs et Android. Dans le même billet il est aussi question d'Arrow Launcher, une application qui remplace les écrans d'accueil sur Android qui 
+
+duquel des milliers d'anciens collaborateurs de Nokia (acquis par Microsoft en avril 2014) ont été remerciés en Finlande, voici que Microsoft annonce l'arrêt de tout nouveau développement pour la plateforme Windows Phone.  
+
+
+Présidentielles françaises
+==========================
+
+En 2012, nous étions passés de l'hyper président (ou président des riches) au président normal (ou président mou).
+En 2017, nous somme passés du *changement c'est maintenant* et de l'*inversion de la courbe du chômage* à *En marche !* avec un président de gauche et de droite. Je ne pensais pas possible que notre système électoral bicéphale (gauche-droite) puisse permettre l'élection d'un candidat du centre !
+ 
+
+Barbus
+======
+
+ne pas se laver
+===============
+
+
+
+
+Portage salarial
+================
+
+Pole Emploi
+
+FIV
+===
+
+Environnement
+=============
+
+Hôtel pour insectes, toiles d'araignée, moustique, bio... Fin essence, 
+Pour l'espèce humaine, il y a des régions favorisées et défavorisées par le changement climatique... À part l'arrivée des maladies tropicales en France et la montée des eaux sur son littoral, je ne vois pas l'impact négatif pour l'espèce humaine. C'est sûr que les autres espèces vivantes (qui n'ont pas l'Afrique file origine) n'apprécient pas la hausse des températures...
+
+Jeux olympiques 2012, 2024
+==========================
