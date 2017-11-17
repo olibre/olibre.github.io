@@ -13,3 +13,6 @@
   
 * Date de clôture d'excercice comptable => Un premier exercice comptable court pour se verser rapidement des dividendes
   https://www.compta-facile.com/lexercice-comptable/
+  
+* Comptable/Commissaire et Logiciel Libre ?
+  https://www.compta-online.com/les-logiciels-libres-dans-les-cabinets-expertise-et-de-commissariat-aux-comptes-ao351
