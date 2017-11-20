@@ -17,3 +17,8 @@
   
 * Comptable/Commissaire et Logiciel Libre ?  
   https://www.compta-online.com/les-logiciels-libres-dans-les-cabinets-expertise-et-de-commissariat-aux-comptes-ao351
+
+* Louer une partie de son domicile à sa société  
+  https://www.compta-online.com/location-une-partie-du-domicile-du-dirigeant-sa-societe-ao837  
+  https://www.leblogdudirigeant.com/mon-entreprise-peut-elle-me-verser-un-loyer/
+
