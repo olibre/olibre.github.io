@@ -893,39 +893,33 @@ CONTRAT À DURÉE INDÉTERMINÉE |br| OPEN-ENDED CONTRACT
      - Right of a person to his own likeness
        |br|
        |br|
-   * - La salariée est autorisée à prendre des photos et des vidéos de l’enfant
+   * - L'employeur autorise la salariée à prendre des photos et des vidéos de l’enfant
        et à les partager dans le cadre privé.
-       L’employeur permet également à la salariée d’utiliser
-       les photos et vidéo de l’enfant dans le cadre de la
+       L’employeur permet également à la salariée de publier
+       les photos et vidéo de l’enfant, mais uniquement dans le cadre de la
        promotion de son propre travail de garde d’enfant.
-     - The employee is authorized to take pictures and videos of the child
+     - The employer allows the employee to take pictures and videos of the child
        and to share them within the private circle.
        The employer also allows the employee to use these pictures and videos
-       for 
-       the promotion of
-       his own work of
-       guard of
-       child.
+       for the promotion of his own work as a child guard.
        |br|
        |br|
-   * - Par contre, toute autre utilisation est interdite, comme la revente ou
-       le don des photos à une autre personne ou à une entreprise, et cela même
-       après la fin du présent contrat. Cela ne permet pas, par exemple, de
-       diffuser ces photos ou vidéo sur le réseau social Facebook car dans ses
-       conditions d’utilisations, l’utilisateur cède ses droits à l’entreprise
-       Facebook. La salariée s’assure que les personnes accédant à ces photos
+   * - Par contre, le droit à l'image de l'enfant doit être respecté, 
+       et l'employée a interdiction de céder ces photos, vidéos ou droits d'auteur
+       à une personne ou à une entreprise non autorisée par l'employeur,
+       et cela même après la fin du présent contrat
+       Par exemple, les photos ou vidéos de l'enfant ne peuvent être diffusées 
+       sur le réseau social Facebook car ses conditions d’utilisations obligent à céder ses droits 
+       à l’entreprise Facebook. La salariée s’assure que les personnes accédant à ces photos
        et vidéos respectent bien cette consigne.
-     - On the other hand,
-       any other use is
-       prohibited, like the
-       resale or the
-       gift of the
-       photographs to other
-       legal people or
-       physics, and
-       that even after
-       the end of this
-       present contract.
+     - However, the image rights of the child must be respected,
+       and the employee is prohibited to assign these photos, videos or copyrights
+       to a person or company not authorized by the employer,
+       and that even after the end of this present contract
+       For example, photos or videos of the child can not be shared
+       on the social network Facebook because its conditions of use force to assign its rights
+       to the company Facebook. The employee ensures that people accessing these photos
+       and videos respect this instruction.
 
 |br|
 |br|
