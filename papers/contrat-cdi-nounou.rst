@@ -477,7 +477,7 @@ CONTRAT À DURÉE INDÉTERMINÉE |br| OPEN-ENDED CONTRACT
        5.  soigner l'enfant et désinfecter ses plaies ;
        6.  ne pas administrer de médicaments de sa propre initiative
            sauf si cette prise d’initiative est demandée par l’employeur ;
-       7.  aider l’enfant à se laver soi-même, à se décaloter le prépuce à se couper les onlges ;
+       7.  aider l’enfant à se laver soi-même, à se décalotter le prépuce à se couper les ongles ;
        8.  aider l’enfant à mettre et retirer ses chaussures,
            s’habiller, et se déshabiller soi-même ;
        9.  préparer les repas suivant les consignes convenues avec l’employeur,
@@ -757,7 +757,7 @@ CONTRAT À DURÉE INDÉTERMINÉE |br| OPEN-ENDED CONTRACT
        |br|
        |br|
    * - Les absences non justifiées sont considérées comme faute lourde ou grave.
-       L’employeur, en pleine activité professionnelle, n'appécie pas de
+       L’employeur, en pleine activité professionnelle, n'apprécie pas de
        faire face, au dernier moment, à l’absence de surveillance de son enfant.
      - The employer, in full professional activity, does not appreciate to face,
        at the last moment, the absence of supervision of his child.
