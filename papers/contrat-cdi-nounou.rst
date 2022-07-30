@@ -440,7 +440,7 @@ CONTRAT À DURÉE INDÉTERMINÉE |br| OPEN-ENDED CONTRACT
          non autorisée par l’employeur ;
        * ne pas faire entrer au domicile de l’employeur
          des personnes non autorisées par l’employeur ;
-       * ne pas fumer, ni consomer d'alcool, ni de drogues ;
+       * ne pas fumer, ni consommer d'alcool, ni de drogues ;
        * ne pas utiliser le téléphone ni l'ordinateur de l’employeur,
          sauf si nécessité dans le cadre du travail.
 
